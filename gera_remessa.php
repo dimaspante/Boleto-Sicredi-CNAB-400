@@ -1,11 +1,12 @@
 <?php
-/* ------------------------------
- * Gerador de arquivo de remessa
- * Formato: DDMMAAAAHIS.crm
- * CNAB: 400
- * Banco: Sicredi (748)
- * Empório Adamantis
-   ----------------------------- */
+/*
+ * @category   	 Finance
+ * @package    	 RetornoBoleto
+ * @description	 Gerador de arquivos de remessa CNAB 400 (Sicredi - 748)
+ * @author     	 Dimas A. Pante <dimaspante@gmail.com>
+ * @license    	 http://www.opensource.org/licenses/bsd-license.php  BSD License
+ * @link       	 emporioadamantis.com.br
+ */
 
 session_start();
 
