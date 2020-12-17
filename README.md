@@ -1,4 +1,4 @@
-#EA - Boleto Sicredi CNAB 400
+#Boleto Sicredi CNAB 400
 
 Gerador de arquivos de remessa para boletos
 
